@@ -2,17 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://Bluetickme-App.github.io/debut-web-consultants-technology-insights-blog/index.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-22</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://Bluetickme-App.github.io/debut-web-consultants-technology-insights-blog/about.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-22</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Bluetickme-App.github.io/debut-web-consultants-technology-insights-blog/posts/index.html</loc>
+    <loc>https://Bluetickme-App.github.io/debut-web-consultants-technology-insights-blog/posts/2026-07-12-how-web-consultancy-bridges-the-gap-between-technology-and-business-value.html</loc>
     <lastmod>2026-07-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Bluetickme-App.github.io/debut-web-consultants-technology-insights-blog/posts/2026-07-22-why-strong-engineering-teams-still-ship-weak-websites.html</loc>
+    <lastmod>2026-07-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Bluetickme-App.github.io/debut-web-consultants-technology-insights-blog/posts/index.html</loc>
+    <lastmod>2026-07-22</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
